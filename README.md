@@ -1,6 +1,7 @@
 # maths_puzzle
 
 A new Flutter project.
+sdk version : 3.22.3 
 
 ## Getting Started
 
